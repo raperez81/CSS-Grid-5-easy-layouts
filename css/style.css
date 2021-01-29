@@ -53,5 +53,5 @@ h2 {
 
 .item2__2 {
   grid-column-start: 6; 
-  grid-column-end: 12; 
+  grid-column-end: span 7 
 }
